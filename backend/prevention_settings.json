@@ -1,0 +1,5 @@
+{
+  "autoPreventionEnabled": true,
+  "blockDuration": 500,
+  "threatThreshold": 0.7
+}
